@@ -1,0 +1,111 @@
+.jumbotron-dark {
+  margin-top: -80px;
+  height: 500px;
+  padding-top: 2rem;
+  background-color: #454545;
+}
+
+.jumbotron-bg {
+  background-image: url("img/wallpaper.png");
+  background-size: cover;
+  margin-top: -80px;
+  height: 500px;
+}
+
+.jumbotron-portfolio-bg {
+  background-image: url("img/ourgame.png");
+  background-size: cover;
+  margin-top: -80px;
+  height: 500px;
+}
+
+.jumbotron-documentation-bg {
+  background-image: url("img/documentation5.jpeg");
+  background-size: cover;
+  margin-top: -80px;
+  height: 500px;
+}
+
+.jumbotron-findus-bg {
+  background-image: url("img/keyboard.jpeg");
+  background-size: cover;
+  margin-top: -80px;
+  height: 1000px;
+}
+.jumbotron .display-4 {
+  margin-top: 200px;
+  font-size: 40px;
+  color: white;
+}
+
+.jumbotron .lead {
+  color: white;
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited {
+  background-color: #8c880e !important;
+}
+
+.jumbotron-light {
+  padding-top: 2rem;
+  background-color: #ffffff;
+}
+
+.navbar-custom {
+  background-color: #8c880e;
+}
+
+.footer-custom {
+  background-color: #8c880e;
+}
+
+hr {
+  width: 160px;
+  border-top: 3px solid #8c880e;
+  margin: 0 auto;
+}
+
+footer {
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #b3ae11;
+}
+footer .logo {
+  position: absolute;
+  right: 1vmin;
+  bottom: 1vmin;
+  height: calc(100% + 30px);
+  width: auto;
+}
+
+/* .bg-black {
+  background-color: #0000;
+} */
+
+/* p {
+  color: #000000;
+}
+
+h1 {
+  color: #000000;
+}
+
+h2 {
+  color: #000000;
+}
+
+h3 {
+  color: #000000;
+}
+
+h4 {
+  color: #000000;
+}
+
+h5 {
+  color: #000000;
+} */
